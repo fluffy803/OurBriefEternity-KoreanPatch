@@ -1,0 +1,13 @@
+{
+ "app": "永恒与星辰与日常",
+ "english": "Our Brief Eternity",
+ "steam_appid": 4169820,
+ "buildid": 26915694,
+ "sha256": {
+  "game/scripts.rpa": "e99b547ca68f47cc496ca44e7f4ee226797ff7c77db172a2aca699b5d2afd324",
+  "game/fonts.rpa": "f0d69bce033f30bec4ffe07bf7e63e116129b2b7d02eb4422bfcf811646e292e",
+  "game/images.rpa": "f7d4e78d182a2c5cf7f48c238fb892d27bd84140dfed49d9a9d2213488d7c773",
+  "game/audio.rpa": "b7ae23c7a6c1dc642014e165c8c395b2d098472eb384f7eff5f56c4e67f34db1",
+  "game/video.rpa": "b8dbebe70d1351accc8d4f6f0f7bffde590e2c1f9a19092a80cf9d1e6ffc9f87"
+ }
+}
